@@ -347,6 +347,8 @@ mobile devices. [CHAR LIMIT=25] -->
 
     <!-- Title of the preference settings for switching keyboard theme [CHAR LIMIT=35] -->
     <string name="keyboard_theme">Keyboard theme</string>
+    <!-- The keyboard theme name, Gingerbread. This is marked as translatable="false" because this is a proper name of an Android Version. -->
+    <string name="keyboard_theme_gingerbread" translatable="false">Gingerbread</string>
     <!-- The keyboard theme name, Holo White. This is marked as translatable="false" because this is a proper name of system-wide UI Theme. -->
     <string name="keyboard_theme_holo_white" translatable="false">Holo White</string>
     <!-- The keyboard theme name, Holo Blue. This is marked as translatable="false" because this is a proper name of system-wide UI Theme.  -->
