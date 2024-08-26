@@ -24,7 +24,6 @@
         <item>@string/keyboard_theme_material_dark</item>
         <item>@string/keyboard_theme_follow_system</item>
         <item>@string/keyboard_theme_holo_white</item>
-        <item>@string/keyboard_theme_gingerbread</item>
         <item>@string/keyboard_theme_holo_blue</item>
     </string-array>
     <!-- An element must be a keyboard theme id of
@@ -34,7 +33,6 @@
         <item>4</item>
         <item>5</item>
         <item>2</item>
-        <item>1</item>
         <item>0</item>
     </integer-array>
 </resources>
